@@ -1,0 +1,52 @@
+ 
+@media (max-width:1400px){ 
+    .partner-title{
+        padding: 17px 98px;
+    }  
+    
+        
+} 
+@media (max-width:1199px){ 
+    .navbar-brand img{
+        width: 130px;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        margin: 0 2px;
+    }
+    .partner-title{
+        padding: 17px 88px 17px 20px;
+    }  
+} 
+@media (max-width:991px){ 
+    .card {
+        position: relative;
+        margin-bottom: 35px;
+    }
+    .bear {
+       box-shadow: none;
+    }
+    .navbar-collapse {
+        align-items: center;
+        width: 100%;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background-color: #cacacadb;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        margin: 0 2px;
+        padding: 8px;
+    }
+}
+@media (max-width:767px){
+         
+}
+
+@media (max-width:575px){
+    .partner-title {
+        padding: 15px 15px 15px 5px;
+    }
+    .become h2 { 
+        padding: 20px 20px 20px 0px;
+    }
+}
